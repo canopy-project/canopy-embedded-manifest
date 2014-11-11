@@ -1,6 +1,6 @@
 <manifest>
     <remote name="origin" fetch="https://github.com"/>
     <default revision="refs/heads/master" remote="origin" sync-j="4"/>
-    <project name="canopy-embedded" remote="origin" path="canopy-project/canopy-embedded">
-    <project name="libred" remote="origin" path="gregulator/libred">
+    <project name="canopy-embedded" remote="origin" path="canopy-project/canopy-embedded"/>
+    <project name="libred" remote="origin" path="gregulator/libred"/>
 </manifest>
