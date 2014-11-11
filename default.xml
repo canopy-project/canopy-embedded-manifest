@@ -2,5 +2,6 @@
     <remote name="origin" fetch="https://github.com"/>
     <default revision="refs/heads/master" remote="origin" sync-j="4"/>
     <project name="canopy-project/canopy-embedded" remote="origin" path="libcanopy"/>
+    <project name="canopy-project/canopy-embedded-manifest" remote="origin" path="manifest"/>
     <project name="gregulator/silver-c" remote="origin" path="external/libred"/>
 </manifest>
