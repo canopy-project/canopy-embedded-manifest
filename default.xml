@@ -1,10 +1,10 @@
 <manifest>
     <remote name="origin" fetch="https://github.com"/>
     <default revision="refs/heads/master" remote="origin" sync-j="4"/>
-    <project name="canopy-project/canopy-embedded" remote="origin" path="libcanopy"/>
+    <project name="canopy-project/canopy-embedded" remote="origin" path="libcanopy" revision="beta-dev"/>
     <project name="canopy-project/canopy-embedded-build" remote="origin" path="build"/>
     <project name="canopy-project/canopy-embedded-manifest" remote="origin" path="manifest"/>
-    <project name="canopy-project/libsddl" remote="origin" path="libsddl"/>
+    <project name="canopy-project/libsddl" remote="origin" path="libsddl" revision="beta-dev"/>
     <project name="canopy-project/libwebsockets-canopy" remote="origin" path="3rdparty/libwebsockets"/>
     <project name="gregulator/silver-c" remote="origin" path="3rdparty/libred"/>
 </manifest>
