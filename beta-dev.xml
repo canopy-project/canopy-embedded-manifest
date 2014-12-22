@@ -2,7 +2,7 @@
     <remote name="origin" fetch="https://github.com"/>
     <default revision="refs/heads/master" remote="origin" sync-j="4"/>
     <project name="canopy-project/canopy-embedded" remote="origin" path="libcanopy" revision="beta-dev"/>
-    <project name="canopy-project/canopy-embedded-build" remote="origin" path="build"/>
+    <project name="canopy-project/canopy-embedded-build" remote="origin" path="build" revision="beta-dev"/>
     <project name="canopy-project/canopy-embedded-manifest" remote="origin" path="manifest" revision="beta-dev"/>
     <project name="canopy-project/demos-raspi" remote="origin" path="demos/raspi"/>
     <project name="canopy-project/libsddl" remote="origin" path="libsddl" revision="beta-dev"/>
